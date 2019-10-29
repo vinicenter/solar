@@ -6,6 +6,8 @@ You just need to install the Processing IDE.
 
 Here is the Processing IDE download link: [Processing IDE Download](https://processing.org/download/)<br>
 
-After installing the Processing, you need to download the repo, and open the Solar.pde file and click run.
+And if you want to run on android, you need to install the Android Mode on your Processing IDE
 
-Remember that it was made in processing, so you can run it on android as well.
+Here is a tutorial about how to install the Android mode on your Processing IDE: [Android mode tutorial](https://android.processing.org/install.html)<br>
+
+After installing the Processing, you need to download the repo, and open the Solar.pde file and click run.
