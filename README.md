@@ -1,6 +1,6 @@
 # Solar
 A application to simulate the solar system in a simple away.<br><br>
-![alt text](https://i.imgur.com/Lmv3C4P.jpg)
+![alt text](https://i.imgur.com/0bwk9rM.gif)
 
 ## How to run the project?
 You just need to install the Processing IDE to run on Desktop, and if you want to run on android, you need to install the Android Mode on your Processing IDE.
