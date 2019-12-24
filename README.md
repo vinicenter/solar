@@ -1,5 +1,5 @@
 # Solar
-A application to simulate the solar system in a simple away.<br><br>
+An app to simulate the solar system in a simple away.<br><br>
 ![alt text](https://i.imgur.com/0bwk9rM.gif)
 
 ## How to run the project?
